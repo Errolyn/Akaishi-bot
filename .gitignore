@@ -1,2 +1,7 @@
 # Local only files
 private.txt
+config.json
+.env
+
+# Local development files
+node_modules
